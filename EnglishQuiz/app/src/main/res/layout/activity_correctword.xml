@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CorrectWordActivity">
+
+    <RelativeLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/ic_quarter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txtTimer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="60dp"
+            android:text="0:30"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="75dp"
+            android:layout_marginTop="90dp"
+            android:background="@drawable/ic_star" />
+
+        <TextView
+            android:id="@+id/txtStarCount"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="102dp"
+            android:layout_marginTop="90dp"
+            android:text="x 0"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtInfo"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="200dp"
+            android:text="Guess the word"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtWord"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="280dp"
+            android:text="TextView"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/etWord"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtWord"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="Word"
+            android:inputType="textPersonName"
+            android:text=""
+            android:textSize="24sp" />
+
+        <RelativeLayout
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/etWord"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/ic_button">
+
+            <TextView
+                android:id="@+id/btnCheck"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="CHECK"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_below="@+id/etWord"
+            android:layout_marginTop="150dp">
+
+            <TextView
+                android:id="@+id/txtStreak"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:text="3-Streak"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/fire1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="547dp"
+            android:src="@drawable/ic_fire"
+            android:visibility="invisible"/>
+
+        <ImageView
+            android:id="@+id/fire2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="547dp"
+            android:src="@drawable/ic_fire2"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/txtStar1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/ic_star"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/txtStar2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/ic_star"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/txtStar3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/ic_star"
+            android:visibility="invisible" />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/ic_star_outline" />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/ic_star_outline" />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/ic_star_outline" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        app:layout_constraintBottom_toBottomOf="@+id/relativeLayout">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:rotation="180"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_wave3" />
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

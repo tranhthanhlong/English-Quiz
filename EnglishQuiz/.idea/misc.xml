@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable-v24/ic_button2.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable-v24/ic_corner.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable-v24/ic_fire2.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_back.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_bibliophile.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_button2.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_circle.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_fire.xml" value="0.14635416666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_image.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_menu.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_quarter.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_round_rectangle.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_round_rectangle1.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_round_rectangle2.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_round_rectangle3.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_smartbutton.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_star.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_star1.xml" value="0.1962962962962963" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_star_outline.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_tide.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_trophy.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_undraw_bibliophile_re_xarc.xml" value="0.14635416666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_undraw_quiz.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_wave1.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_wave2.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_wave3.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_wave4.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_wave5.xml" value="0.2703125" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/drawable/ic_wave6.xml" value="0.14791666666666667" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activitiy_leaderboard.xml" value="0.16" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_correct_word.xml" value="0.13020833333333334" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_correctword.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_correctwordresult.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_englishquizresult.xml" value="0.13020833333333334" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_howtouse.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_imagequestionnaire.xml" value="0.176" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_leaderboard.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_loginintro.xml" value="0.2" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_mainmenu.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_myprofile.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_result.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_selectleaderboard.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_selectnumberofquestion.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_startcorrectword.xml" value="0.34328358208955223" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_textquestion.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/activity_textquestionnaire.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/drawer_header.xml" value="0.25052083333333336" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/list_item_layout.xml" value="0.4" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/layout/user_list_item.xml" value="0.264" />
+        <entry key="..\:/Tools/Android/Project/EnglishQuiz/app/src/main/res/menu/drawer_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
